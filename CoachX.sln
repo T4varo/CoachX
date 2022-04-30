@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoachX", "CoachX\CoachX.vcxproj", "{5CA2D1E1-F1A0-424D-98FE-26F26D08FEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA2D1E1-F1A0-424D-98FE-26F26D08FEDA}.Release|x64.ActiveCfg = Release|x64
+		{5CA2D1E1-F1A0-424D-98FE-26F26D08FEDA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8E89AA-467C-4E1E-9815-82306817BE46}
+	EndGlobalSection
+EndGlobal
